@@ -1,0 +1,8 @@
+Suggested Reading List
+(since we can't distribute these papers)
+
+Coulson, T. 2012. Integral projections models, their construction and use in posing hypotheses in ecology. Oikos 121:1337–1350.
+
+Ellner, S. P., and M. Rees. 2006. Integral projection models for species with complex demography. American Naturalist 167:410–428.
+
+Rees, M., D. Z. Childs, and S. P. Ellner. 2014. Building integral projection models: a user's guide. Journal of Animal Ecology 83:528–545.

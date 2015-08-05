@@ -1,0 +1,6 @@
+Suggested Reading List
+(since we can't distribute these papers)
+
+Metcalf, C. J. E., S. M. Mcmahon, R. Salguero-Gómez, and E. Jongejans. 2013. IPMpack: an R package for integral projection models. Methods in Ecology and Evolution 4:195–200.
+
+Williams, J. L., T. E. Miller, and S. P. Ellner. 2012. Avoiding unintentional eviction from integral projection models. Ecology 93:2008–2014.

@@ -1,0 +1,6 @@
+Suggested Reading List
+(since we can't distribute these papers)
+
+Ramula, S., M. Rees, and Y. M. Buckley. 2009. Integral projection models perform better for small demographic data sets than matrix population models: a case study of two perennial herbs. Journal of Applied Ecology 46:1048–1053.
+
+Salguero Gómez, R., and J. B. Plotkin. 2010. Matrix dimensions bias demographic inferences: Implications for comparative plant demography. American Naturalist 176:710–722.
