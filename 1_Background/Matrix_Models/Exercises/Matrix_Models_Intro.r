@@ -48,7 +48,7 @@ library(reshape)
 setwd('~/Dropbox/Projects/ipms/teachIPMs') # set this to your teachIPMs directory
 
 # nice abbreviated dataset
-andre <-read.csv ("Beginner/Intro_to_Matrix_Models/Exercises/karadat.csv")
+andre <-read.csv ("1_Background/Matrix_Models/Exercises/karadat.csv")
 str(andre)
 
 # look at the stages/classes
@@ -265,7 +265,7 @@ matplot(drt, ylab="Quasi-extinction probability",  ylim=c(0,1.1),
 
 #  Load up the raw-ish data
 
-andre <-read.csv ("Beginner/Intro_to_Matrix_Models/Exercises/D__composite9_13_2012.csv")
+andre <-read.csv ("1_Background/Matrix_Models/Exercises/D__composite9_13_2012.csv")
 str(andre)
 
 #  BEST ESTIMATE OF SEED PRODUCTION:  average of seeds/fruit, weighed average of fruits/infl where 0.14 is 1/8 drought years
